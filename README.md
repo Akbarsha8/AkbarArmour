@@ -16,7 +16,7 @@ You can also find the use of the tool on my youtube address.
     '''
 3. If U finished the installaion after change the directory
    ```
-   cd akbarsha
+   cd AkbarArmour
 
 ## Usage
 
