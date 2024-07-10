@@ -19,7 +19,7 @@ You can also find the use of the tool on my youtube address.
 
 1. Run the program:
     ```
-    python akbarsha.py
+    python3 akbarsha.py
     ```
 2. The program will ask for the directory or directories to scan.
 3. The program will then scan the specified directories and output any identified malware to the console.
@@ -36,11 +36,11 @@ The list of known malware hashes is stored in the `hashes.txt` file. You can add
 
 ### Malware Classification
 
-The program categorizes malware based on its hash. The `malware_classification` dictionary in the `malwarescanner.py` file maps hash values to malware types. You can add or remove mappings from this dictionary to classify additional types of malware.
+The program categorizes malware based on its hash. The `malware_classification` dictionary in the `akbarsha.py` file maps hash values to malware types. You can add or remove mappings from this dictionary to classify additional types of malware.
 
 ### Directories to Scan
 
-The `directories_to_scan` list in the `malwarescanner.py` file determines which directories the program will scan for malware. By default, the list includes the root directory of the C: drive on Windows and the root directory of the filesystem on Linux.
+The `directories_to_scan` list in the `akbarsha.py` file determines which directories the program will scan for malware. By default, the list includes the root directory of the C: drive on Windows and the root directory of the filesystem on Linux.
 
 ## Contributing
 Contributions are welcome! To contribute to MalwareScanner, follow these steps:
