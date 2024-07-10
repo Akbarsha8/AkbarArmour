@@ -13,7 +13,10 @@ You can also find the use of the tool on my youtube address.
 2. Install the required packages:
     ```
     pip install -r requirements.txt
-    ```
+    '''
+3. If U finished the installaion after change the directory
+   ```
+   cd akbarsha
 
 ## Usage
 
