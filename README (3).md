@@ -1,7 +1,6 @@
 # AkbarArmour
 
 AkbarArmour is a Python program that scans a directory or a set of directories for known malware using their hashes.
-You can also find the use of the tool on my youtube address.
 
 ## Installation
 
