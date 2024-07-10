@@ -1,13 +1,13 @@
-# Malware Scanner
+# AkbarArmour
 
-Malware Scanner is a Python program that scans a directory or a set of directories for known malware using their hashes.
+AkbarArmour is a Python program that scans a directory or a set of directories for known malware using their hashes.
 You can also find the use of the tool on my youtube address.
 
 ## Installation
 
 1. Clone the repository:
     ```
-    git clone https://github.com/HalilDeniz/MalwareScanner.git
+    git clone https://github.com/Akbarsha8/AkbarArmour.git
     ```
 2. Install the required packages:
     ```
@@ -18,7 +18,7 @@ You can also find the use of the tool on my youtube address.
 
 1. Run the program:
     ```
-    python malwarescanner.py
+    python akbarsha.py
     ```
 2. The program will ask for the directory or directories to scan.
 3. The program will then scan the specified directories and output any identified malware to the console.
@@ -53,12 +53,10 @@ Contributions are welcome! To contribute to MalwareScanner, follow these steps:
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/halil-ibrahim-deniz/
-- TryHackMe: https://tryhackme.com/p/halilovic
-- Instagram: https://www.instagram.com/deniz.halil333/
-- YouTube: https://www.youtube.com/c/HalilDeniz
-- Denizhalil: https://denizhalil.com/
-- Email: halildeniz313@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akbarsha-n-0160782a1? 
+   utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Instagram: https://www.instagram.com/mr.200watts?igsh=MWpwdXFyMXIxbzViag==
+- Email: akbarsha.2k@gmail.com
 
 ## License
 
