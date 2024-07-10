@@ -61,4 +61,4 @@ Contributions are welcome! To contribute to akbarsha, follow these steps:
 
 ## License
 
-ARUL PRAKASH.R
+Licened by ArulPrakash.R
