@@ -61,4 +61,4 @@ Contributions are welcome! To contribute to MalwareScanner, follow these steps:
 
 ## License
 
-[MIT License](LICENSE)
+ARUL PRAKASH.R
