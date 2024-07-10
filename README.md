@@ -43,7 +43,7 @@ The program categorizes malware based on its hash. The `malware_classification` 
 The `directories_to_scan` list in the `akbarsha.py` file determines which directories the program will scan for malware. By default, the list includes the root directory of the C: drive on Windows and the root directory of the filesystem on Linux.
 
 ## Contributing
-Contributions are welcome! To contribute to MalwareScanner, follow these steps:
+Contributions are welcome! To contribute to akbarsha, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
