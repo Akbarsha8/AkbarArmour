@@ -99,4 +99,4 @@ if __name__ == "__main__":
     print(table)
     print(f"\nTotal number of scanned files: {counter[0]}")
     print(f"Program run time: {elapsed_time:.2f} second")
-    print("This program is written by Halil Deniz \nIn case of a problem do not hesitate to contact me")
+    print("This program is written by Akbarsha \nIn case of a problem do not hesitate to contact me")
